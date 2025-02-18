@@ -14,5 +14,22 @@ C# & .NET Framework: Core programming language and framework for building the ap
 MySQL: Robust database management system for storing and managing records.
 Windows Forms: GUI framework for creating a user-friendly interface.
 
-More screenshots are uploaded in the folder.
 ![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/Dashboard.png?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/AddNewRoom.png?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/LoginPageFAorm.jpg?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/ManageRoomForm.png?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/NewStudentForm.png?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/RoomAlreadyEXISTS.png?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/RoomUpdated.png?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/StudentFeesForm.png?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/StudentInfoForm.png?raw=true)
+
+![image alt](https://github.com/aribaf/HDMS-Hostel-Database-Management-System/blob/main/StudentRecords.png?raw=true)
